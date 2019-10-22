@@ -24,7 +24,7 @@
 		printf("b = %c\n", unionA.b);
 		printf("c = %c\n", unionA.c);
 		printf("d = %c\n", unionA.d);
-		printf("The size of 4 char union is %d bytes.\n", sizeof unionA);
+		printf("The SIZE OF 4 char union is %d bytes.\n", sizeof unionA);
 	}
 
 	void notSoSimpleUnion()
