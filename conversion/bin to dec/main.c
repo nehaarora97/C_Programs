@@ -15,7 +15,7 @@ int main(void)
 	if(validate(binary, length))
 	{
 		decimal = binaryToDecimal(binary, length);
-		printf("%s in binary is %lu in decimal\n", binary, decimal);
+		printf("%s in BInary is %lu in DECIMAL\n", binary, decimal);
 	}
 	else
 	{
