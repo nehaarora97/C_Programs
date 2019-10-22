@@ -15,7 +15,7 @@ int main(void)
     if(validate(octal, length))
     {
         decimal = octalToDecimal(octal, length);
-        printf("%s in octal is %lu in decimal\n", octal, decimal);
+        printf("%s in OCTAL is %lu in DECIMAL\n", octal, decimal);
     }
 
     return 0;
