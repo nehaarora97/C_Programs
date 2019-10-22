@@ -17,7 +17,7 @@ int main()
    }
    char c = 'a';
    for (int i = 0; i < 26; i++) {
-    cout << c << " occurs " << occur[i] << " times\n";
+    cout << c << " OCCURS " << occur[i] << "TIMES\n";
     c++;
    }
    return 0;
