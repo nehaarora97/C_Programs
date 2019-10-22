@@ -28,9 +28,9 @@ int main() {
     found = binarySearch(a, n, target);
 
     if (found == -1) {
-        printf("Element not present in array\n");
+        printf("Element is not present in array\n");
     } else {
-        printf("Element found at index %d\n", found);
+        printf("Element found at index number %d\n", found);
     }
 
     return 0;
