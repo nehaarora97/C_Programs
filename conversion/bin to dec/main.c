@@ -19,7 +19,7 @@ int main(void)
 	}
 	else
 	{
-		printf("The input should be a binary number, containing only zeros(0) and ones(1).\n");
+		printf("The input should be a binary number, containing only zeros(0) and one's).\n");
 	}
 	
 	return 0;
