@@ -14,7 +14,7 @@ int prime(int n){
 int main() {
 
     int a,b,i;
-    printf("Enter number for Interval start :");
+    printf("Enter number from which the Interval start :");
     scanf("%d" , &a);
     printf("Enter number for Interval end :");
     scanf("%d" , &b);
